@@ -1,0 +1,39 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+*.log
+*.user
+*.userprefs
+*.autosave
+
+# Compiled source
+*.dll
+*.exe
+*.pdb
+*.lib
+
+# Build artifacts
+Build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Backup files
+*.bak
+*.old
+
+# UnrealCLR binaries
+Plugins/UnrealCLR/Binaries/
+Plugins/UnrealCLR/Intermediate/
+
+#Visual Studio cache
+.vs/
